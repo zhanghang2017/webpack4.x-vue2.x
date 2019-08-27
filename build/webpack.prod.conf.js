@@ -43,7 +43,7 @@ function plugins () {
 }
 
 const webpackConfig = merge(BaseConf, viewsConfig.templates(), {
-  mode: 'none',
+  mode: 'production',
   module: {
     rules: utils.styleLoaders({
       usePostcss: true,
