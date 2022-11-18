@@ -39,7 +39,7 @@
     "file-loader": "^4.1.0",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "glob": "^7.1.4",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^0.8.0",
     "ora": "^3.4.0",
     "portfinder": "^1.0.23",
@@ -51,7 +51,7 @@
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.36.1",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0",
     "webpack-merge": "^4.2.1"
   },
